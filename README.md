@@ -1,17 +1,18 @@
 This is a test repository for a git course
 
-My name is Antoine Masson
+My name is **Antoine Masson**
 
-Files description
+# Files description
+## Root 
 
-mars.txt : it's contains idea bout mars ....
-test.dat : it's about whatever
+* mars.txt : it's contains idea bout mars ....
+* test.dat : it's about whatever
 
-
+# Citation
 To cite this beautiful work .....
 
 
-License :
+# License 
 YOu are not allowed to use this work .....
 
 
